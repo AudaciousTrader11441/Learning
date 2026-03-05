@@ -11,7 +11,7 @@ status: published
 
 ## Overview
 
-This hands-on guide walks through configuring a custom statusline for Claude Code. The statusline is a customisable bar at the bottom of the terminal that displays session data -- model name, context usage, git branch, and more. This is a practical introduction to **Context Engineering** and **Workflow Engineering** from the [Showcase](session-one/showcase.md).
+This hands-on guide walks through configuring a custom statusline for Claude Code. The statusline is a customisable bar at the bottom of the terminal that displays session data -- model name, context usage, git branch, and more. This is a practical introduction to **Context Engineering** and **Workflow Engineering** from the [Showcase](showcase.md).
 
 ## Context
 

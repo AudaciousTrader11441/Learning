@@ -24,7 +24,7 @@ The AI Engineering material in this hub covers a broad discipline with multiple 
 
 | Session | Title | Status | Links |
 |---------|-------|--------|-------|
-| 1 | AI Engineering Discipline | draft | [Showcase](session-one/showcase\.md) -- [Hands-On](session-one/hands-on\.md) -- [FAQs](session-one/faqs\.md) |
+| 1 | AI Engineering Discipline | draft | [Showcase](session-one/showcase.md) -- [Hands-On](session-one/hands-on.md) -- [FAQs](session-one/faqs.md) |
 
 ## Session Structure
 
