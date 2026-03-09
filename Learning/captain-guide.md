@@ -19,9 +19,9 @@ You lead soldiers. The questions below build on each other in sequence -- they t
 
 ## Assessing Your Team
 
-**Q: Why do my team need to understand the Four Disciplines?**
+**Q: Why do my team need to understand the Five Disciplines?**
 
-The disciplines are cumulative, not substitutive. Skipping one creates the kind of failures now appearing at scale. Good specifications require Prompt Craft fundamentals. Effective agent systems require good Context Engineering. Aligning agent behaviour with organisational goals requires Intent Engineering. Delegating complex, multi-day autonomous work requires Specification Engineering that integrates all three layers beneath it. Your team cannot jump to Level 4 without building the stack from the bottom.
+The disciplines are cumulative, not substitutive. Skipping one creates the kind of failures now appearing at scale. Good specifications require Prompt Craft fundamentals. Effective agent systems require good Context Engineering. Delivering that context reliably requires Harness Engineering. Aligning agent behaviour with organisational goals requires Intent Engineering. Delegating complex, multi-day autonomous work requires Specification Engineering that integrates all four layers beneath it. Your team cannot jump to Level 4 without building the stack from the bottom.
 
 **Q: How do I assess where my team currently operates?**
 
