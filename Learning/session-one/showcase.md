@@ -17,7 +17,7 @@ This showcase frames Session One -- what it covers, how the session is structure
 
 AI Engineering is a layered discipline that emerged as coding agents moved from chat assistants to autonomous workers. It comprises five disciplines (Prompt, Context, Harness, Intent, and Specification Engineering) operating at increasing altitude, and five autonomy levels that describe how much of the development loop the agent handles. For the full treatment of these concepts, see [ai-engineering-disciplines](ai-engineering-disciplines.md) and the role guides linked from it.
 
-This session introduces the discipline through a practical exercise rather than a lecture. The hands-on builds a Claude Code statusline -- a small project that touches Context Engineering (structuring data the agent receives) and Workflow Engineering (configuring how the agent runs scripts) without writing application code.
+This session introduces the discipline through a practical exercise rather than a lecture. The hands-on builds a Claude Code statusline -- a small project that touches Context Engineering (structuring data the agent receives) and Harness Engineering (configuring how the agent runs scripts) without writing application code.
 
 ## Why the Statusline?
 
@@ -43,5 +43,5 @@ This format is consistent across all sessions. See [sessions](sessions.md) for t
 | Part | Document | Focus |
 |------|----------|-------|
 | Showcase | You are here | Session framing and why the statusline exercise |
-| Hands-On | [Hands-On](session-one/hands-on\.md) | Setting up the Claude Code statusline |
-| FAQs | [FAQs](session-one/faqs\.md) | Common questions from this session |
+| Hands-On | [Hands-On](hands-on.md) | Setting up the Claude Code statusline |
+| FAQs | [FAQs](faqs.md) | Common questions from this session |
